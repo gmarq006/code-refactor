@@ -84,8 +84,8 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    position: relative;
-    top: -960px;
+    /* position: relative; */
+    /* top: -960px; */
 }
 
 .benefit-lead,
@@ -202,13 +202,13 @@ p {
     font-size: 36px;
 } */
 
-.footer {
-    padding: 20px;
+footer {
+    padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
