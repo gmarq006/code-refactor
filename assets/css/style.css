@@ -80,12 +80,11 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 23%;
+    width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     position: relative;
-    left: 250px;
     top: -960px;
 }
 
@@ -204,7 +203,7 @@ p {
 } */
 
 .footer {
-    padding: 30px;
+    padding: 20px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
